@@ -5,6 +5,6 @@ My Projects
 
 [Business of life](https://i-bdkn.ru/business-of-life/) - Дипломная работа Glo Academy
 
-[Cars App](https://bdkni.github.io/cars-app/) - Проект на Angular
+[Cars App](https://bdkni.github.io/cars-hw/) - Проект на Angular
 
 
