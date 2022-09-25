@@ -7,4 +7,4 @@ My Projects
 
 [Cars App](https://bdkni.github.io/cars-hw/) - Проект на Angular с интенсива от Itlogia
 
-[Macarons](https://i-bdkn.ru/macarons/) - Лендинг с курса от Itlogia
+[Macarons](https://i-bdkn.ru/macarons/) - Самостоятельная работа с курса от Itlogia
