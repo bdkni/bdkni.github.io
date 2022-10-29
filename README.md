@@ -7,4 +7,4 @@ My Projects
 
 [Macarons](https://i-bdkn.ru/macarons/) - Самостоятельная работа с курса от Itlogia
 
-[Boom Burger]([https://i-bdkn.ru/macarons/](https://i-bdkn.ru/Boom-Burger/)) - Дипломная работа с курса от Itlogia
+[Boom Burger](https://i-bdkn.ru/Boom-Burger/) - Дипломная работа с курса от Itlogia
